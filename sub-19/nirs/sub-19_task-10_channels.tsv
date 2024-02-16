@@ -1,0 +1,17 @@
+﻿name	type	source	detector	wavelength_nominal	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description
+S1_D1 757	NIRSCWAMPLITUDE	S1	D1	757.0	V	0.0	25.0	Near Infrared Spectroscopy (continuous wave)	50.0	good	n/a
+S2_D1 757	NIRSCWAMPLITUDE	S2	D1	757.0	V	0.0	25.0	Near Infrared Spectroscopy (continuous wave)	50.0	good	n/a
+S3_D1 757	NIRSCWAMPLITUDE	S3	D1	757.0	V	0.0	25.0	Near Infrared Spectroscopy (continuous wave)	50.0	good	n/a
+S4_D1 757	NIRSCWAMPLITUDE	S4	D1	757.0	V	0.0	25.0	Near Infrared Spectroscopy (continuous wave)	50.0	good	n/a
+S5_D2 757	NIRSCWAMPLITUDE	S5	D2	757.0	V	0.0	25.0	Near Infrared Spectroscopy (continuous wave)	50.0	good	n/a
+S6_D2 757	NIRSCWAMPLITUDE	S6	D2	757.0	V	0.0	25.0	Near Infrared Spectroscopy (continuous wave)	50.0	good	n/a
+S7_D2 757	NIRSCWAMPLITUDE	S7	D2	757.0	V	0.0	25.0	Near Infrared Spectroscopy (continuous wave)	50.0	good	n/a
+S8_D2 757	NIRSCWAMPLITUDE	S8	D2	757.0	V	0.0	25.0	Near Infrared Spectroscopy (continuous wave)	50.0	good	n/a
+S1_D1 844	NIRSCWAMPLITUDE	S1	D1	844.0	V	0.0	25.0	Near Infrared Spectroscopy (continuous wave)	50.0	good	n/a
+S2_D1 844	NIRSCWAMPLITUDE	S2	D1	844.0	V	0.0	25.0	Near Infrared Spectroscopy (continuous wave)	50.0	good	n/a
+S3_D1 844	NIRSCWAMPLITUDE	S3	D1	844.0	V	0.0	25.0	Near Infrared Spectroscopy (continuous wave)	50.0	good	n/a
+S4_D1 844	NIRSCWAMPLITUDE	S4	D1	844.0	V	0.0	25.0	Near Infrared Spectroscopy (continuous wave)	50.0	good	n/a
+S5_D2 844	NIRSCWAMPLITUDE	S5	D2	844.0	V	0.0	25.0	Near Infrared Spectroscopy (continuous wave)	50.0	good	n/a
+S6_D2 844	NIRSCWAMPLITUDE	S6	D2	844.0	V	0.0	25.0	Near Infrared Spectroscopy (continuous wave)	50.0	good	n/a
+S7_D2 844	NIRSCWAMPLITUDE	S7	D2	844.0	V	0.0	25.0	Near Infrared Spectroscopy (continuous wave)	50.0	good	n/a
+S8_D2 844	NIRSCWAMPLITUDE	S8	D2	844.0	V	0.0	25.0	Near Infrared Spectroscopy (continuous wave)	50.0	good	n/a
