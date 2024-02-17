@@ -3,6 +3,7 @@
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
-        "[xiaofei Zhang]"
-    ]
+        "Xiaofei Zhang"
+    ],
+    "License": "CC0"
 }
