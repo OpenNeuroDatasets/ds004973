@@ -1,0 +1,18 @@
+{
+    "TaskName": "1",
+    "Manufacturer": "SNIRF",
+    "PowerLineFrequency": 50.0,
+    "SamplingFrequency": 50.0,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 786.92,
+    "RecordingType": "continuous",
+    "EEGChannelCount": 0,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 0,
+    "TriggerChannelCount": 0,
+    "NIRSChannelCount": 16,
+    "NIRSSourceOptodeCount": 8,
+    "NIRSDetectorOptodeCount": 2
+}
